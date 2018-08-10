@@ -1,4 +1,4 @@
-# Social Media and Web User Engagement and Analytics
+# Social Media and Web | User Engagement and Analytics
 
 ### User engagement analytics on Facebook 
 using Google BigQuery and a <a href = "https://public.tableau.com/profile/shruti.saxena#!/vizhome/FB_Dashboard_Data_Viz_Class_Experiment/Dashboard1?publish=yes"> personalized user dashboard </a> on Tableau
